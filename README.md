@@ -1,1 +1,6 @@
-"# aulaGUI_01" 
+Aplicação de demonstração de criação de interface gráfica em java
+com os principais controles comuns em uma tinterface para
+computador.
+
+Aplicação básica para alunos que estão aprendendo Java pela
+primeira vez.
